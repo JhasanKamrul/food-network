@@ -1,0 +1,57 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+    color:orange;
+}
+.order-food{
+    display: flex;
+    margin-left: 5px;
+    margin-bottom: 80px;
+}
+.half-width{
+    margin-top: 50px;
+    margin-left: 5%;
+    width: 50%;
+}
+.half-width-header{
+    margin-top: 120px;
+}
+.half-width img{
+    width:80%;
+    
+}
+.half-width h1{
+    font-size: 2em;
+    color: dimgrey;
+    
+}
+.half-width p{
+    color: dimgray;
+    font-size: 1em;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding:10px 25px;
+    border-radius: 10px;
+    color: white;
+}
+#model img{
+    width: 40%;
+    margin-left: 100px;
+}
+.about-me{
+    display: flex;
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.about-me-phara{
+   margin-right: 80px;
+}
+.my-recipies{
+    text-align: center;
+    color: dimgrey;
+}
+
